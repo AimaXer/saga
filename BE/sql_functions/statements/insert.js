@@ -1,0 +1,1 @@
+export const CreateUser = 'INSERT INTO Users (userId, name, surname, password, email, subscription, avatarImage, folders, sites) VALUES ('

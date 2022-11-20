@@ -1,0 +1,1 @@
+export const GetUserBy = 'SELECT * FROM Users WHERE '
